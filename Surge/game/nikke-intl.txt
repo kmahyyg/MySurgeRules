@@ -1,0 +1,15 @@
+# Nikke intl
+DOMAIN-SUFFIX,intlgame.com,no-resolve
+DOMAIN-SUFFIX,nikke-kr.com,no-resolve
+DOMAIN-SUFFIX,nikke-en.com,no-resolve
+DOMAIN-SUFFIX,nikke-jp.com,no-resolve
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,centauriglobal.com
+DOMAIN-SUFFIX,listdl.com
+# Google Analytics for Game
+# DOMAIN-SUFFIX,app-analytics-services.com
+# Tencent A/B Test
+# DOMAIN-SUFFIX,iegcom.com
+# DOMAIN-SUFFIX,wetest.net
+# Nikke intl - Tencent ACE
+# DOMAIN-SUFFIX,anticheatexpert.com
