@@ -1,0 +1,7 @@
+# GFW
+DOMAIN,web.archive.org
+
+PROCESS-NAME,cloudflared
+
+# regulation reason
+DOMAIN-SUFFIX,oneplus.com

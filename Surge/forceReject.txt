@@ -1,0 +1,59 @@
+# Pirate Software
+DOMAIN,collect.guitar-pro.com
+DOMAIN,updates.guitar-pro.com
+DOMAIN,ping.guitar-pro.com
+
+# Anti-Tracker
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN-SUFFIX,d.meituan.net
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
+DOMAIN,gator.volces.com
+DOMAIN,ai.gitee.com
+DOMAIN-SUFFIX,jddebug.com
+DOMAIN,hm.baidu.com
+DOMAIN-SUFFIX,tracking.miui.com
+
+# DNS over TLS (Surge Only)
+# DEST-PORT,853
+
+# DNS over HTTP
+DOMAIN-KEYWORD,httpdns
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,resolver.dingtalk.com
+DOMAIN,dns.wechat.com
+DOMAIN,paydns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,usdns.wechat.com
+
+# PCDN Blockage
+DOMAIN-KEYWORD,smogfly
+DOMAIN-KEYWORD,wuchuyun
+DOMAIN-KEYWORD,wuchucloud
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+
+## Bilibili PCDN Blockage
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,mcdn.bilivideo.com
+DOMAIN-SUFFIX,ppio.bilivideo.com
+DOMAIN-SUFFIX,kodo.bilivideo.com
+DOMAIN-SUFFIX,edge.mountaintoys.cn
+DOMAIN-SUFFIX,szbdyd.com
+
+# ADBlock
+DOMAIN,app-analytics-services.com
+DOMAIN,gateway.unityads.unity3d.com
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,wetest.net
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN,badjs.weixinbridge.com
+
+## Experimental Blockage of AD Image
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,mmecoa.qpic.cn
