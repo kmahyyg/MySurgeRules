@@ -1,0 +1,4 @@
+# PopKart Mobile Rush Nexon
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexon.io
