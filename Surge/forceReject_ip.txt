@@ -1,0 +1,2 @@
+# marscdnbypass-wxapp.tc.qq.com:443, QUIC
+IP-CIDR,116.140.45.22

@@ -56,4 +56,5 @@ DOMAIN,badjs.weixinbridge.com
 
 ## Experimental Blockage of AD Image
 DOMAIN,pgdt.gtimg.cn
-DOMAIN,mmecoa.qpic.cn
+DOMAIN,marscdnbypass-wxapp.tc.qq.com
+DOMAIN,vweixinf.tc.qq.com
